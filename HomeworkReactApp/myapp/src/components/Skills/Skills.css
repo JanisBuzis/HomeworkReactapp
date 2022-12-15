@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'Abel' ; 
+    src: url(./Abel-Regular.ttf);
+}
+
+.skills_wrapper {
+    font-family: 'Abel';
+    height: 615px;
+    text-align: center;
+    margin: 0px 250px;
+}
+
+.h2 {
+    font-family: 'Abel';
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 43px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.p_skills {
+    margin-top: 70px;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 23px;
+}
+
+.skills_icons {
+    font-family: 'Abel';
+    display: flex;
+    justify-content: space-between;
+    margin-top: 90px;
+    align-items: center;
+}
+
+.icon_desc {
+    margin-top: 25px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 18px;
+
+    color: #828282;
+}
+
+.icon_desc_react {
+    margin-top: 7px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 18px;
+
+    color: #828282;
+}
+
+.stars_ratings {
+    margin-top: 42px;
+}

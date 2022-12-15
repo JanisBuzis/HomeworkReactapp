@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Abel';
+    src: url(./Abel-Regular.ttf);
+}
+
+.description_wrapper {
+    margin: 0px 250px ;
+    margin-top: 35px;
+}
+
+.description {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    align-items: center;
+}
+
+.name {
+    font-family: 'Abel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 47.3392px;
+    line-height: 60px;
+}
+
+.age {
+    font-family: 'Abel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 23px;
+}
+
+.language {
+    font-family: 'Abel';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    transform: rotate(-90deg);
+    align-items: flex-end;
+}
+
+.photo {
+    margin-top: 35px;
+}
+
+.photo_image {
+    width: 100%;
+}

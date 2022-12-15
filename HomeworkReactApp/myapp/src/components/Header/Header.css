@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Abel';
+    src: url(./Abel-Regular.ttf);
+}
+
+.header_wrapper {
+    height: 90px;
+    margin: 0px 250px;
+}
+
+.menu_wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px
+}
+
+.text_style {
+    font-family: 'Abel';
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 23px;
+}
+
+.line {
+    border: 0.5px solid #828282;
+    margin-top: 35px;
+}

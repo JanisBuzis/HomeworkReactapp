@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Abel';
+    src: url(./Abel-Regular.ttf);
+}
+
+.aboutme_wrapper1 {
+    font-family: 'Abel';
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 23px;
+    margin-top: 105px;
+    height: 510px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+
+    background: #F6F6F6;
+}
+
+.h1 {
+    font-family: 'Abel';
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 43px;
+    margin-bottom: -105px
+}
+
+.p2 {
+    margin-top: -70px;
+}
